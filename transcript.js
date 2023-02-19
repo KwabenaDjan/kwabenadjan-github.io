@@ -33,8 +33,13 @@
         text: "the unwarranted or delusional belief that one is being persecuted, harassed, or betrayed by others, occurring as part of a mental condition."
       });
       MESSAGES.push({
-        delay: 6200,
+        delay: 6900,
         text: "This movie, “Paranoia”, is based on a main character who always has this feeling that wherever he goes, wherever he finds himself there is someone watching him. One night after his study time in the library and returning to his room, his sense of paranoia spikes up again as usual except that this time around he was right about his feelings."
+      });
+
+      MESSAGES.push({
+        delay: 7200,
+        text: "Director: Kwabena Sekyi-Djan(SekyiDK)"
       });
 
   
